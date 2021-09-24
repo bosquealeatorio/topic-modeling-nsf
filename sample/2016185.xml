@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER: Developing Accurate Crystallography Without Diffraction</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>255406.00</AwardTotalIntnAmount>
+<AwardAmount>255406</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kelsey Cook</SignBlockName>
+<PO_EMAI>kcook@nsf.gov</PO_EMAI>
+<PO_PHON>7032927490</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>With this award, the Chemical Measurements and Imaging Program of the Chemistry Division is funding Dr. James Harper of the University of Central Florida to extend the capability of theoretical methods to accurately predict crystal structures.  Presently, many compounds and even entire classes of compounds are unsuitable for analysis by conventional crystallography methods.  This project combines lattice prediction methods with experimental NMR data to provide new methodology capable of solving structural problems that are now intractable.  This outcome will impact society by improving the ability to characterize a host of new materials.  For example, nearly 60 cephalosporin antibiotics have been described since 1955, yet over 93% in the structures have never been characterized crystallographically. The project focuses on characterizing key cephalosporins as well as other challenging materials.&lt;br/&gt;&lt;br/&gt;This project focuses on improving the theoretical prediction of crystal structure by including experimental solid-state NMR data in the prediction process.  The NMR data serve to identify a single high-probability conformation before the prediction process.  Because many lattice prediction programs robustly and accurately treat rigid structures but are challenged by flexibility, the NMR data improves prediction by limiting the conformational space searched.  The experimental NMR measurements focus primarily on 13C and 15N chemical shift tensors because such data provide three measurable parameters for each molecular position.  Uncertainties in atomic positions are provided through a molecular dynamics process, to ultimately create structures suitable for deposit into crystallographic databases.  The broader impact of this work includes training students from a primarily undergraduate institution (Washington and Jefferson College) in an annual three week NMR course involving 6-8 students, the creation of a series of Open Courseware lectures describing basic NMR concepts and the more specialized tensor measurement methods, and outreach into the scouting community of central Florida through lab tours and voluntary teaching of merit badge courses.</AbstractNarration>
+<MinAmdLetterDate>01/10/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>01/10/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2016185</AwardID>
+<Investigator>
+<FirstName>James</FirstName>
+<LastName>Harper</LastName>
+<PI_MID_INIT>K</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>James K Harper</PI_FULL_NAME>
+<EmailAddress>jkharper@chem.byu.edu</EmailAddress>
+<PI_PHON>8014225044</PI_PHON>
+<NSF_ID>000624615</NSF_ID>
+<StartDate>01/10/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Brigham Young University</Name>
+<CityName>Provo</CityName>
+<ZipCode>846021231</ZipCode>
+<PhoneNumber>8014223360</PhoneNumber>
+<StreetAddress>A-285 ASB</StreetAddress>
+<StreetAddress2><![CDATA[Campus Drive]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Utah</StateName>
+<StateCode>UT</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>UT03</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>009094012</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>BRIGHAM YOUNG UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>001940170</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Brigham Young University]]></Name>
+<CityName>Provo</CityName>
+<StateCode>UT</StateCode>
+<ZipCode>846025700</ZipCode>
+<StreetAddress><![CDATA[Department of Chemistry and Bioc]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Utah</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>UT03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>6880</Code>
+<Text>Chemical Measurement &amp; Imaging</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0115</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0116</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<FUND_OBLG>2015~14650</FUND_OBLG>
+<FUND_OBLG>2016~240756</FUND_OBLG>
+</Award>
+</rootTag>

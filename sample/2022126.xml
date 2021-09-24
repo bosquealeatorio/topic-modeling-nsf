@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>BII-Design: Evolution of Oxygenic Photosynthesis</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>79534.00</AwardTotalIntnAmount>
+<AwardAmount>79534</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08080000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DBI</Abbreviation>
+<LongName>Div Of Biological Infrastructure</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Stephen DiFazio</SignBlockName>
+<PO_EMAI>sdifazio@nsf.gov</PO_EMAI>
+<PO_PHON>7032924517</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The evolution of oxygenic photosynthesis changed the trajectory of life on Earth. By about 2.4 billion years ago, photosynthesis began to cause accumulation of oxygen in Earth’s atmosphere. This oxygen eventually allowed multicellular animals to evolve. However, scientists do not know when or how oxygenic photosynthesis evolved. Understanding its origin requires integrating data and ideas from biochemistry, microbiology, evolutionary biology, and Earth history. This project will bring together individual scientists with the breadth of knowledge and diversity of skills to identify and address the key questions for understanding oxygenic photosynthesis. Specifically, researchers will design a cross-disciplinary Biology Integration Institute on The Evolution of Oxygenic Photosynthesis. The team will include university students and early career scientists who will learn cross-disciplinary techniques through participation in project-related activities and as part of a graduate level course that integrates appropriate sciences. Public outreach and education projects will show others how scientists work together on complicated problems. The researchers are committed to diversity, inclusivity, and academic excellence, and they will apply best practices for broadening participation and integrating educational components into the project.&lt;br/&gt; &lt;br/&gt;The researchers will establish a cross-disciplinary collaboration at UC Davis to investigate the evolution of oxygenic photosynthesis. Through a series of workshops, they will: 1) assess current knowledge and hypotheses; 2) articulate outstanding questions that transcend subdisciplines and can be productively addressed by an interdisciplinary team; 3) identify additional key collaborators to address research questions; 4) build an interdisciplinary and interinstitutional research team to answer the target questions; and 5) host a writing workshop for all collaborators to construct an Implementation proposal with active participation from the full Implementation team. This project advances the mission of the Biology Integration Institute and NSF by linking researchers across biological and geological disciplines.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/27/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/13/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2022126</AwardID>
+<Investigator>
+<FirstName>R. David</FirstName>
+<LastName>Britt</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>R. David Britt</PI_FULL_NAME>
+<EmailAddress>rdbritt@ucdavis.edu</EmailAddress>
+<PI_PHON>5307526377</PI_PHON>
+<NSF_ID>000243309</NSF_ID>
+<StartDate>08/27/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Dawn</FirstName>
+<LastName>Sumner</LastName>
+<PI_MID_INIT>Y</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Dawn Y Sumner</PI_FULL_NAME>
+<EmailAddress>dysumner@ucdavis.edu</EmailAddress>
+<PI_PHON>5307525353</PI_PHON>
+<NSF_ID>000417193</NSF_ID>
+<StartDate>08/27/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Charles</FirstName>
+<LastName>Brown</LastName>
+<PI_MID_INIT>T</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Charles T Brown</PI_FULL_NAME>
+<EmailAddress>ctbrown@ucdavis.edu</EmailAddress>
+<PI_PHON>5175059237</PI_PHON>
+<NSF_ID>000497272</NSF_ID>
+<StartDate>08/27/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Christen</FirstName>
+<LastName>Grettenberger</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Christen Grettenberger</PI_FULL_NAME>
+<EmailAddress>clgrettenberger@ucdavis.edu</EmailAddress>
+<PI_PHON>5307547700</PI_PHON>
+<NSF_ID>000744530</NSF_ID>
+<StartDate>08/27/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Patrick</FirstName>
+<LastName>Shih</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Patrick M Shih</PI_FULL_NAME>
+<EmailAddress>pmshih@ucdavis.edu</EmailAddress>
+<PI_PHON>6504921159</PI_PHON>
+<NSF_ID>000782160</NSF_ID>
+<StartDate>08/27/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Davis</Name>
+<CityName>Davis</CityName>
+<ZipCode>956186134</ZipCode>
+<PhoneNumber>5307547700</PhoneNumber>
+<StreetAddress>OR/Sponsored Programs</StreetAddress>
+<StreetAddress2><![CDATA[1850 Research Park Dr., Ste 300]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA03</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>047120084</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA, DAVIS</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>071549000</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Davis]]></Name>
+<CityName>Davis</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>956186134</ZipCode>
+<StreetAddress><![CDATA[1 Shields Ave]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7275</Code>
+<Text>Cross-BIO Activities</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<FUND_OBLG>2020~79534</FUND_OBLG>
+</Award>
+</rootTag>

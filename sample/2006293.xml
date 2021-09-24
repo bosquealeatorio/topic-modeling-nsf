@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research: RAPID: Storm and tropical cyclone effects on the spawning activity, larval dispersal, and ecosystem impacts of an endangered marine predator</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>12/15/2019</AwardEffectiveDate>
+<AwardExpirationDate>11/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>102138.00</AwardTotalIntnAmount>
+<AwardAmount>102138</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06040300</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OCE</Abbreviation>
+<LongName>Division Of Ocean Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Cynthia Suchman</SignBlockName>
+<PO_EMAI>csuchman@nsf.gov</PO_EMAI>
+<PO_PHON>7032922092</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Many species of reef fish form large seasonal gatherings at specific locations to spawn. Such aggregations may lead to population overfishing if not well managed. Additionally, spawning aggregations in shallow coastal areas may also be susceptible to prolonged surge, high volumes of freshwater run-off and potentially changes in salinity associated with large storms and tropical cyclones. Yet, the impact from such events, which are becoming increasingly prevalent, has not been studied. This study investigates the impacts of hurricane Dorian on spawning activity of the endangered goliath grouper (Epinephelus itajara) fish species off the southeast coast of Florida. The broader impacts of the project relate to its value to inform fisheries management plans for goliath grouper. The project supports two early career faculty members and training of a postdoctoral researcher, a graduate student, and several undergraduate students at Florida International University. &lt;br/&gt;&lt;br/&gt;Hurricane Dorian occurred at the peak of goliath grouper's spawning aggregation in Florida's shallow waters. This project takes advantage of ongoing acoustic surveys since 2017, telemetry, biophysical modelling, and behavioral studies of goliath grouper at spawning sites to assess how hurricane Dorian: 1) influenced the duration of spawning events and the size of aggregations, 2) affected individual residency to spawning sites and spawning behavior, 3) changed the dispersal patterns of goliath grouper larvae and identify nursery habitats with/without storm or hurricane events, and 4) influenced trophic cascades at the reef ecosystem level due to goliath grouper spawning aggregations as determined by changes on lower trophic level foraging rates and the subsequent changes to the benthos. The combination of methods provide insight into how storms affects spawning behavior from the individual to the group level, and how subsequent larval recruitment may be influenced. Finally, this project tests the utility of acceleration sensors for identifying spawning behavior in free ranging fishes, which will be of major significance to spawning studies across taxa.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>12/05/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>12/05/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2006293</AwardID>
+<Investigator>
+<FirstName>Kevin</FirstName>
+<LastName>Boswell</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kevin Boswell</PI_FULL_NAME>
+<EmailAddress>kevin.boswell@fiu.edu</EmailAddress>
+<PI_PHON>3059194009</PI_PHON>
+<NSF_ID>000650214</NSF_ID>
+<StartDate>12/05/2019</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Yannis</FirstName>
+<LastName>Papastamatiou</LastName>
+<PI_MID_INIT>P</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yannis P Papastamatiou</PI_FULL_NAME>
+<EmailAddress>ypapasta@fiu.edu</EmailAddress>
+<PI_PHON>3053482494</PI_PHON>
+<NSF_ID>000723322</NSF_ID>
+<StartDate>12/05/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Alastair</FirstName>
+<LastName>Harborne</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Alastair R Harborne</PI_FULL_NAME>
+<EmailAddress>aharborn@fiu.edu</EmailAddress>
+<PI_PHON>3053482494</PI_PHON>
+<NSF_ID>000728131</NSF_ID>
+<StartDate>12/05/2019</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Florida International University</Name>
+<CityName>Miami</CityName>
+<ZipCode>331990001</ZipCode>
+<PhoneNumber>3053482494</PhoneNumber>
+<StreetAddress>11200 SW 8TH ST</StreetAddress>
+<StreetAddress2><![CDATA[MARC 430]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+<CONGRESSDISTRICT>26</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>FL26</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>071298814</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>FLORIDA INTERNATIONAL UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>159621697</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Florida International University]]></Name>
+<CityName/>
+<StateCode>FL</StateCode>
+<ZipCode>331990001</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>26</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>FL26</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1650</Code>
+<Text>BIOLOGICAL OCEANOGRAPHY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1097</Code>
+<Text>DIVERSITY: ROLE IN ECOSYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8556</Code>
+<Text>Coral Reefs</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<FUND_OBLG>2020~102138</FUND_OBLG>
+</Award>
+</rootTag>

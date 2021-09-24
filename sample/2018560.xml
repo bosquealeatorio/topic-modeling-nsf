@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>MRI: Acquisition of Ion Mill for TEM Sample Preparation</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>136051.00</AwardTotalIntnAmount>
+<AwardAmount>136051</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Leonard Spinu</SignBlockName>
+<PO_EMAI>lspinu@nsf.gov</PO_EMAI>
+<PO_PHON>7032922665</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This award from the Major Research Instrumentation program supports Smith College with the acquisition of Transmission Electron Microscopy sample preparation tool.  Acquisition of this tool greatly expands Smith’s capabilities to make non-biological samples for study in the electron microscope, and thus opens new research areas to Smith faculty and students, who are the primary users of the tool.  This tool allows researchers at Smith to offer undergraduates accessible pathways into meaningful materials research in their first two years of college and opens doors for women and underrepresented minorities who make up 100% of Smith students.  Involvement with research in the early college years is known to positively affect retention of women and under-represented minorities in the sciences.  In addition, students gain meaningful skills such as how to make samples for the electron microscope, how to use an electron microscope, and how to analyze the results.  These skills are valued in graduate programs and in industries that rely on materials development.  Acquisition of this tool also increases the ability of the faculty to mentor women undergraduates of all racial and economic backgrounds in the physical and materials sciences.&lt;br/&gt;&lt;br/&gt;This award from the Major Research Instrumentation program supports Smith College with the acquisition of a Transmission Electron Microscopy (TEM) sample preparation tool.  Acquisition of this tool greatly expands Smith’s capabilities to make non-biological samples for study in the electron microscope, and thus opens new research areas to Smith faculty and students, who are the primary users of the tool. The acquisition of the ion mill will enable scientists at Smith College to make high quality cross-sectional TEM specimen, improved quality plan-view TEM specimen, and to train Smith College undergraduates to make TEM cross-sectional samples and improved plan-view samples. Acquisition of this tool greatly improves the opportunities for current and future Smith faculty and students to enter into collaborations with researchers at other institutions who engage in research on fabrication of hard/brittle materials and especially thin films on substrates such as silicon, GaAs or other semiconductor materials.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/24/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/24/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2018560</AwardID>
+<Investigator>
+<FirstName>Joyce</FirstName>
+<LastName>Palmer-Fortune</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Joyce Palmer-Fortune</PI_FULL_NAME>
+<EmailAddress>jfortune@smith.edu</EmailAddress>
+<PI_PHON>4135843912</PI_PHON>
+<NSF_ID>000558992</NSF_ID>
+<StartDate>06/24/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Smith College</Name>
+<CityName>Northampton</CityName>
+<ZipCode>010636304</ZipCode>
+<PhoneNumber>4135842700</PhoneNumber>
+<StreetAddress>10 ELM STREET</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA02</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>066989427</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>TRUSTEES OF THE SMITH COLLEGE, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>066989427</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Smith College]]></Name>
+<CityName>Northampton</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>010636303</ZipCode>
+<StreetAddress><![CDATA[McConnell Hall Room 323]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1189</Code>
+<Text>Major Research Instrumentation</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<FUND_OBLG>2020~136051</FUND_OBLG>
+</Award>
+</rootTag>

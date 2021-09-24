@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Monitoring Desalination Membrane Fouling via Real-time Integrated Surface Imaging and Advanced Machine Learning</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>12/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>11/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>255442.00</AwardTotalIntnAmount>
+<AwardAmount>255442</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Peter Atherton</SignBlockName>
+<PO_EMAI>patherto@nsf.gov</PO_EMAI>
+<PO_PHON>7032928772</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impact of this Small Business Innovation Research (SBIR) Phase I project will be to enable monitoring and decision support for membrane-based water treatment and desalination processes in the municipal water reuse, agriculture and industrial sectors. The proposed technology will integrate of machine learning (ML) and artificial intelligence (AI) decision support technology with hardware for direct and real-time visualization of process element conditions and performance process monitoring to reduce operational risks and costs.  Moreover, the proposed platform will enable more efficient and lower-cost water production from non-traditional and underutilized source waters, such as municipal and industrial wastewater, high salinity and/or contaminated groundwater, and seawater. &lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project will advance translation of a real-time detection, characterization and forecasting of membrane fouling and scaling of reverse osmosis (RO) and nanofiltration (NF) membranes in water treatment and desalination plants. ML and AI approaches will integrate direct and real-time membrane surface foulant imaging with operating performance data for real-time analysis and forecasting of plant fouling and its impact on plant performance. The research will explore relationships between foulant/scalant characteristics and plant process conditions for a Dynamic Bayesian Network model to inform a decision support system for timely fouling/scaling mitigation in RO/NF plants.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/10/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>09/08/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2019726</AwardID>
+</Award>
+</rootTag>

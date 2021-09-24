@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Preparing for the Future of Survey Research</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>39778.00</AwardTotalIntnAmount>
+<AwardAmount>39778</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04050000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>SES</Abbreviation>
+<LongName>Divn Of Social and Economic Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jan Leighley</SignBlockName>
+<PO_EMAI>jleighle@nsf.gov</PO_EMAI>
+<PO_PHON>7032922686</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This award provides support for a (virtual) conference about the future of survey research in the social sciences.  The conference brings together an interdisciplinary group of researchers from various academic fields and from various industries to discuss innovations in social, behavioral, and health surveys.  The goal is to overcome common disciplinary divides and to foster communication and collaboration about innovations that might address current and impending challenges for survey research. In particular, the conference focuses on the themes of increasing the quality of survey data, improving the utility of survey data, assessing advances in technologies applicable to survey data, integrating survey data with auxiliary data, such as census and social media “big data,” and examining the prospects for new institutional innovations in survey research across the social and behavioral sciences, governments, and industry.&lt;br/&gt;&lt;br/&gt;The virtual conference will bring together scholars and practitioners from diverse backgrounds and fields in the various social and behavioral science areas that employ the highest quality survey research to support their activities.   The conference focuses on four subject areas over the two days:  1) Data quality and transparency.  Discussion of this topic helps to establish the standards by which data collections are evaluated.  2) Survey methods innovations.  Discussion of this topic is aimed at assembling novel advances at the research frontier.  3) Survey Plus or looking beyond survey responses.  Discussion of this topic is aimed at consideration of integration of auxiliary data, such as administrative records and other new types of “Big Data.”  4) Imagining new institutions.  Discussion of this topic builds on the earlier foundations to consider the potential for new frameworks and collaborations for conducting survey research in the social sciences.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/28/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/14/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2040847</AwardID>
+<Investigator>
+<FirstName>D. Sunshine</FirstName>
+<LastName>Hillygus</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>D. Sunshine Hillygus</PI_FULL_NAME>
+<EmailAddress>hillygus@duke.edu</EmailAddress>
+<PI_PHON>9196604341</PI_PHON>
+<NSF_ID>000498237</NSF_ID>
+<StartDate>08/28/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>Aldrich</LastName>
+<PI_MID_INIT>H</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>John H Aldrich</PI_FULL_NAME>
+<EmailAddress>aldrich@duke.edu</EmailAddress>
+<PI_PHON>9196604346</PI_PHON>
+<NSF_ID>000219884</NSF_ID>
+<StartDate>08/28/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Duke University</Name>
+<CityName>Durham</CityName>
+<ZipCode>277054010</ZipCode>
+<PhoneNumber>9196843030</PhoneNumber>
+<StreetAddress>2200 W. Main St, Suite 710</StreetAddress>
+<StreetAddress2><![CDATA[Erwin Square]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC04</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>044387793</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>DUKE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>044387793</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Duke University]]></Name>
+<CityName>DURHAM</CityName>
+<StateCode>NC</StateCode>
+<ZipCode>277084677</ZipCode>
+<StreetAddress><![CDATA[c/o Office of Research Support,]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>120Y</Code>
+<Text>AIB-Acctble Institutions&amp;Behav</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1333</Code>
+<Text>Methodology, Measuremt &amp; Stats</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<FUND_OBLG>2020~39778</FUND_OBLG>
+</Award>
+</rootTag>

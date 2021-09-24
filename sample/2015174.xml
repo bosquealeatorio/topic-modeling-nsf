@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>STTR Phase I:  A Novel Device for Accurate Intrapartum Fetal Health Monitoring</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>225000.00</AwardTotalIntnAmount>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Henry Ahn</SignBlockName>
+<PO_EMAI>hahn@nsf.gov</PO_EMAI>
+<PO_PHON>7032927069</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of the proposed STTR Phase I project is to build a non-invasive medical device for fetal health monitoring to assist obstetricians in avoiding unnecessary cesarean-section surgeries (C-Sections). Despite significant cost and clear evidence of health risks associated with C-Sections, many infants are delivered via C-Sections. The high C-section rate and the associated additional cost and health complications result in part from inaccuracy of existing electronic fetal monitors, which generate many false alarms for fetal distress. The goal of this project is to address this problem by developing a non-invasive device so obstetricians may conveniently and accurately assess fetal health during labor and delivery.&lt;br/&gt;&lt;br/&gt;The proposed STTR Phase I project is to advance a breakthrough technology for non-invasive, transabdominal measurement of fetal arterial blood oxygen saturation (FSpO2). The underlying principle of operation is to shine light in the abdominal area at two specific near-infrared wavelengths and subsequently sense the small amount of diffusely scattered light transcutaneously. These measured signals require processing to correct for the maternal contribution and to infer intensity variations due to pulsation of fetal arteries. The proposed project will advance the development of a prototype and demonstrate feasibility of safe, robust and reliable transabdominal FSpO2 measurement in hypoxic fetal animal models.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/01/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/01/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2015174</AwardID>
+<Investigator>
+<FirstName>Aijun</FirstName>
+<LastName>Wang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Aijun Wang</PI_FULL_NAME>
+<EmailAddress>aawang@ucdavis.edu</EmailAddress>
+<PI_PHON>5307547700</PI_PHON>
+<NSF_ID>000741508</NSF_ID>
+<StartDate>05/01/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Soheil</FirstName>
+<LastName>Ghiasi</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Soheil Ghiasi</PI_FULL_NAME>
+<EmailAddress>ghiasi@storx-tech.com</EmailAddress>
+<PI_PHON>5303413493</PI_PHON>
+<NSF_ID>000817043</NSF_ID>
+<StartDate>05/01/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>STORX TECHNOLOGIES, INC.</Name>
+<CityName>DAVIS</CityName>
+<ZipCode>956165636</ZipCode>
+<PhoneNumber>5303413493</PhoneNumber>
+<StreetAddress>2918 COHO PL</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA03</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>117157062</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>STORX TECHNOLOGIES, INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California, Davis]]></Name>
+<CityName>Davis</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>956186134</ZipCode>
+<StreetAddress><![CDATA[2918 COHO PL]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1505</Code>
+<Text>STTR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8038</Code>
+<Text>Biotechnology</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<FUND_OBLG>2020~225000</FUND_OBLG>
+</Award>
+</rootTag>

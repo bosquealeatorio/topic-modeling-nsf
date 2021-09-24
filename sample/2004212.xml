@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Identification and alignment of interested actors around civil wars using the text of UN General Assembly speeches</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>138000.00</AwardTotalIntnAmount>
+<AwardAmount>138000</AwardAmount>
+<AwardInstrument>
+<Value>Fellowship Award</Value>
+</AwardInstrument>
+<Organization>
+<Code>04010000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>SMA</Abbreviation>
+<LongName>SBE Off Of Multidisciplinary Activities</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Josie S. Welkom</SignBlockName>
+<PO_EMAI>jwelkom@nsf.gov</PO_EMAI>
+<PO_PHON>7032927376</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This award was provided as part of NSF's Social, Behavioral and Economic Sciences Postdoctoral Research Fellowships (SPRF) program and SBE's Security and Preparedness program. The goal of the SPRF program is to prepare promising, early career doctoral-level scientists for scientific careers in academia, industry or private sector, and government. SPRF awards involve two years of training under the sponsorship of established scientists and encourage Postdoctoral Fellows to perform independent research. NSF seeks to promote the participation of scientists from all segments of the scientific community, including those from underrepresented groups, in its research programs and activities; the postdoctoral period is considered to be an important level of professional development in attaining this goal. Each Postdoctoral Fellow must address important scientific questions that advance their respective disciplinary fields. Under the sponsorship of Dr. Kyle Beardsley at Duke University, this postdoctoral fellowship award supports an early career scientist investigating the internationalization of civil conflicts, using United Nations (UN) General Assembly speeches to help identify politically interested countries and to measure their alignment around a given conflict. The project advances both the study of diplomacy at the United Nations and the study of third-party involvement in civil wars. Additionally, by focusing on the content of UN speeches as a predictor of risk, it provides a scalable framework for creating longer-term tracking and finer-grained forecasts as geopolitical interests develop, change, and evolve. Finally, it helps build enhanced infrastructure for future scholastic collaboration on data collection and forecasting, as well as for providing future generations of researchers with hands-on training in a large-scale research program.&lt;br/&gt;&lt;br/&gt;Civil wars often escalate to envelop an entire region or, in some cases, the entire world. This process of internationalization involves both an assessment of whether countries actually have a political interest in the ongoing conflict, and also whether other countries have similar or conflicting interests. This project zooms into these two questions by setting out to both identify interested countries, and measure the alignment of interests across these parties, using the text of UN General Assembly speeches as a data source for both (in conjunction with other measures from the literature). Funding for this project supports three primary tasks. The first task leverages machine learning methods to match the content of individual UN General Assembly Speeches (from 1984-2014) to the discussion of a given civil war. The second task models the risk of whether an individual country has an identifiable political interest in this civil war, drawing on the content of the classified UN General Assembly speeches and also drawing on a systematic review of prior literature on the topic. Finally, given this political interest, the third task measures the alignment of interested countries to determine whether they are likely to cooperate or conflict surrounding that conflict. Output from this study are relevant for both scholars and policymakers, with implications for understanding diplomacy at the United Nations, and for modeling the intricate link between civil wars, inter-state conflict, and international institutions like the UN. It facilitates progress in both the scholarly understanding of conflict processes, and in the efficient allocation of national security resources following the outbreak of a politically relevant conflict with the potential for internationalization.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/27/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/27/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2004212</AwardID>
+<Investigator>
+<FirstName>Zuhaib</FirstName>
+<LastName>Mahmood</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Zuhaib S Mahmood</PI_FULL_NAME>
+<EmailAddress/>
+<PI_PHON>7042223715</PI_PHON>
+<NSF_ID>000813621</NSF_ID>
+<StartDate>08/27/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Siegel</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>David A Siegel</PI_FULL_NAME>
+<EmailAddress/>
+<PI_PHON>9196604306</PI_PHON>
+<NSF_ID>000514003</NSF_ID>
+<StartDate>08/27/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kyle</FirstName>
+<LastName>Beardsley</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kyle Beardsley</PI_FULL_NAME>
+<EmailAddress/>
+<PI_PHON>9196604318</PI_PHON>
+<NSF_ID>000555939</NSF_ID>
+<StartDate>08/27/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Mahmood, Zuhaib Sheikh</Name>
+<CityName>East Lansing</CityName>
+<ZipCode>48824</ZipCode>
+<PhoneNumber/>
+<StreetAddress/>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI08</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_DUNS_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Duke University]]></Name>
+<CityName>Durham</CityName>
+<StateCode>NC</StateCode>
+<ZipCode>277089976</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>040Y</Code>
+<Text>(SPRF-FR) SBE Postdoctoral Res</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>118Y</Code>
+<Text>Security &amp; Preparedness</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7137</Code>
+<Text>POSTDOCTORAL FELLOWSHIPS</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<FUND_OBLG>2020~138000</FUND_OBLG>
+</Award>
+</rootTag>

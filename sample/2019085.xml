@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CC* Integration-Large: mGuard: A Secure Real-time Data Distribution System with Fine-Grained Access Control for mHealth Research</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>825000.00</AwardTotalIntnAmount>
+<AwardAmount>825000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Deepankar Medhi</SignBlockName>
+<PO_EMAI>dmedhi@nsf.gov</PO_EMAI>
+<PO_PHON>7032922935</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The mGuard project aims to address two major data access challenges in sharing mobile health (mHealth) data among researchers who investigate a wide range of health and wellness issues: (1) because wearable sensor data may expose privacy-sensitive information about a user, they should be accessed only by authorized users; currently this access control is largely handled manually, incurring high overhead and subject to human errors; and (2) to enable real-time intervention for certain medical conditions, researchers need to retrieve and process the sensor data in real-time, which is not supported at this time.&lt;br/&gt;&lt;br/&gt;mGuard tackles the above challenges by utilizing the results from the NSF-supported Named Data Networking (NDN) initiative, in particular the solutions that automate the cryptographic key management for data access control (name-based access control, or NAC) and the solutions that enable real-time synchronization among distributed datasets (NDN Sync). First, mGuard utilizes and extends NDN NAC to automate fine-grained access control of confidential data to authorized researchers.  Second, it utilizes NDN Sync to provide real-time data production notification; based on this, it enables applications to publish and subscribe to data in real time by directly using MD2K data names. These new capabilities will be deployed in the MD2K cyberinfrastructure.&lt;br/&gt;    &lt;br/&gt;This effort enables the Mobile Sensor Data-to-Knowledge (MD2K) Center (supported by the National Institute of Health) to share its data securely and in real time with a large number of mHealth researchers. The transformative potential of mGuard thus extends across many types of digital interventions and many health domains. mGuard also encourages researchers in other areas of data-intensive applications to explore NDN’s data-centric solutions. To train the next generation, mGuard is creating undergraduate and graduate education materials including concrete examples and hands-on exercises, as well as training and outreach activities through online seminars, conference tutorials, mHealth training institute, and summer camps.  &lt;br/&gt;&lt;br/&gt;The mGuard project website is https://mguard.md2k.org.  Published papers are maintained through the mGuard website, NDN website (https://named-data.net/), MD2K website (https://md2k.org), and publishers’ websites.  All of the software produced by the project is maintained in the NDN GitHub (https://github.com/named-data) and mHealthHUB (https://mhealth.md2k.org/).   Curriculum materials, program documentations, and user manuals are maintained on the mGuard project website. The trace data, simulation code, and evaluation results will be maintained on mGuard internal servers for a period of at least 10 years. Investigators will archive data, samples, and other research products, and preserve access to them at least five years beyond the project’s end date, subject to resource availability.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/30/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/30/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2019085</AwardID>
+<Investigator>
+<FirstName>Lixia</FirstName>
+<LastName>Zhang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Lixia Zhang</PI_FULL_NAME>
+<EmailAddress>lixia@cs.ucla.edu</EmailAddress>
+<PI_PHON>3108252695</PI_PHON>
+<NSF_ID>000442968</NSF_ID>
+<StartDate>06/30/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Santosh</FirstName>
+<LastName>Kumar</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Santosh Kumar</PI_FULL_NAME>
+<EmailAddress>skumar4@memphis.edu</EmailAddress>
+<PI_PHON>9016782487</PI_PHON>
+<NSF_ID>000285759</NSF_ID>
+<StartDate>06/30/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Lan</FirstName>
+<LastName>Wang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Lan Wang</PI_FULL_NAME>
+<EmailAddress>lanwang@memphis.edu</EmailAddress>
+<PI_PHON>9016781643</PI_PHON>
+<NSF_ID>000490011</NSF_ID>
+<StartDate>06/30/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Memphis</Name>
+<CityName>Memphis</CityName>
+<ZipCode>381523370</ZipCode>
+<PhoneNumber>9016783251</PhoneNumber>
+<StreetAddress>Administration 315</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<StateCode>TN</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TN09</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>055688857</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MEMPHIS, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>878135631</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Memphis]]></Name>
+<CityName>Memphis</CityName>
+<StateCode>TN</StateCode>
+<ZipCode>381523370</ZipCode>
+<StreetAddress><![CDATA[315 Administration Building]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TN09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>2890</Code>
+<Text>CISE Research Resources</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<FUND_OBLG>2020~825000</FUND_OBLG>
+</Award>
+</rootTag>

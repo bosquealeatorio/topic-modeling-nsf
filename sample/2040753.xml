@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>AI and the Future of STEM Learning: Engaging Research and Practitioner Audiences</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>49952.00</AwardTotalIntnAmount>
+<AwardAmount>49952</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11090000</Code>
+<Directorate>
+<Abbreviation>EHR</Abbreviation>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DRL</Abbreviation>
+<LongName>Division Of Research On Learning</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Amy Baylor</SignBlockName>
+<PO_EMAI>abaylor@nsf.gov</PO_EMAI>
+<PO_PHON>7032925126</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Advances in artificial intelligence (AI) are rapidly accelerating, both in the United States and abroad. In the context of STEM learning, there is a strong need to engage both investigators and practitioners to create a research agenda that builds from an understanding of the strengths, weaknesses, and challenges presented by AI. Building on two recent invitational convenings in AI and education, the nonprofit Digital Promise will implement three online workshops to engage multiple communities in developing a future-oriented research agenda. The activities will build on recent research results from interdisciplinary conference proceedings (e.g., International Conference on Artificial Intelligence in Education, International Conference of the Learning Sciences).&lt;br/&gt;&lt;br/&gt;Specific activities will include three online workshops in STEM application areas, to include the role of AI with respect to: (1) learning and learning environments; (2) teacher learning and work; and (3) assessment. In the first part of each workshop, invited experts will provide an overview of current knowledge, expected advances, and important issues and barriers.  Using a structured interactive tool, attendees will extend and refine the presentation. In the second part of each workshop, attendees will work in breakout groups to envision what must happen in the next 3-5 years to strengthen applications of AI to education. Approximately 60-100 participants will engage synchronously in each online workshop, drawing from Historically Black Colleges and Universities and other Minority Serving Institutions, school networks, and NSF INCLUDES awardees. Outcomes of the workshops will be published rapidly for wide distribution through both formal mechanisms as well as social media.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/16/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/16/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2040753</AwardID>
+<Investigator>
+<FirstName>Jeremy</FirstName>
+<LastName>Roschelle</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jeremy Roschelle</PI_FULL_NAME>
+<EmailAddress>jroschelle@digitalpromise.org</EmailAddress>
+<PI_PHON>6509069814</PI_PHON>
+<NSF_ID>000124596</NSF_ID>
+<StartDate>07/16/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Judith</FirstName>
+<LastName>Fusco</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Judith Fusco</PI_FULL_NAME>
+<EmailAddress>jfusco@digitalpromise.org</EmailAddress>
+<PI_PHON>6505033691</PI_PHON>
+<NSF_ID>000406772</NSF_ID>
+<StartDate>07/16/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Digital Promise Global</Name>
+<CityName>Washington</CityName>
+<ZipCode>200365561</ZipCode>
+<PhoneNumber>2024503675</PhoneNumber>
+<StreetAddress>1001 Connecticut Ave Nw Ste 935</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<StateCode>DC</StateCode>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>DC00</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>020864477</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>DIGITAL PROMISE GLOBAL</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Digital Promise]]></Name>
+<CityName>Washington</CityName>
+<StateCode>DC</StateCode>
+<ZipCode>200365561</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>DC00</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>152Y</Code>
+<Text>Accelerating Discovery in Ed</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>092Z</Code>
+<Text>AI-Supported Learning</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0420</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<FUND_OBLG>2020~49952</FUND_OBLG>
+</Award>
+</rootTag>

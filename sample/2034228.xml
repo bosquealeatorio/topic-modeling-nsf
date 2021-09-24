@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RAPID: Reconstructing the contemporary history and progenitor of SARS-CoV-2 strains causing COVID-19</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>200000.00</AwardTotalIntnAmount>
+<AwardAmount>200000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DEB</Abbreviation>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Katharina Dittmar</SignBlockName>
+<PO_EMAI>kdittmar@nsf.gov</PO_EMAI>
+<PO_PHON>7032927799</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) is the root cause of the COVID-19 disease that has caused many deaths in the US and millions of infections worldwide. It is expected to infect many more and is feared to inflict a higher death toll, requiring immediate research efforts to understand its genome biology and evolution. Experimental laboratories have quickly assembled tens of thousands of CoV-2 genomes to characterize its variation and to track the spread of COVID-19. Now a meaningful analysis of this enormous dataset is needed to understand patterns of coronavirus change over the last few months. These evolutionary patterns are the key to making predictions and developing products to fight COVID-19. The discovery of evolutionary patterns requires new methods explicitly designed to exploit salient features of coronavirus genomes and the history of the outbreaks. This project will provide professional development opportunities for two early career scientists, and a public webinar for broader education and training on how to use the new software to study viral evolution will be hosted.&lt;br/&gt;&lt;br/&gt;Novel analytical approaches for inferring the contemporary evolutionary history of SARS-CoV-2 strains will be developed. In preliminary investigations, the new procedures and protocols show higher power in resolving early evolutionary events in the SARS-CoV-2 history. New methods will be tested by using empirical and computer-simulated datasets. An extensive collection of coronavirus strains will be analyzed to reconstruct the earliest evolutionary events in its origin and divergence. The new software implementing the new methods will be integrated into the Molecular Evolutionary Genetics Analysis (MEGA) software that is used extensively in virology. This will place sophisticated techniques at the fingertips of scientists via a graphical user interface and command-line versions.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/29/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/29/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2034228</AwardID>
+<Investigator>
+<FirstName>Sudhir</FirstName>
+<LastName>Kumar</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sudhir Kumar</PI_FULL_NAME>
+<EmailAddress>s.kumar@temple.edu</EmailAddress>
+<PI_PHON>6232255230</PI_PHON>
+<NSF_ID>000248267</NSF_ID>
+<StartDate>06/29/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Sayaka</FirstName>
+<LastName>Miura</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sayaka Miura</PI_FULL_NAME>
+<EmailAddress>tuf78332@temple.edu</EmailAddress>
+<PI_PHON>8144418268</PI_PHON>
+<NSF_ID>000828153</NSF_ID>
+<StartDate>06/29/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Temple University</Name>
+<CityName>Philadelphia</CityName>
+<ZipCode>191226003</ZipCode>
+<PhoneNumber>2157077547</PhoneNumber>
+<StreetAddress>1801 N. Broad Street</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA02</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>057123192</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>TEMPLE UNIVERSITY-OF THE COMMONWEALTH SYSTEM OF HIGHER EDUCATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>057123192</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Temple University]]></Name>
+<CityName>Philadelphia</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>191220001</ZipCode>
+<StreetAddress><![CDATA[1801 N Broad St, Philadelphia, P]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7374</Code>
+<Text>Systematics &amp; Biodiversity Sci</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<FUND_OBLG>2020~200000</FUND_OBLG>
+</Award>
+</rootTag>

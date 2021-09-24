@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  A Powerful Clinical Aid in the Diagnosis of Vaginitis to Prevent PTB and Stop STI Transmission</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>249726.00</AwardTotalIntnAmount>
+<AwardAmount>249726</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Henry Ahn</SignBlockName>
+<PO_EMAI>hahn@nsf.gov</PO_EMAI>
+<PO_PHON>7032927069</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to provide fast, accurate diagnosis of vaginal infections.  Vaginitis results in 10 million office visits a year representing 10% of all US women’s health visits, is known to dramatically increase susceptibility to sexually transmitted infections. External testing is expensive and can take from a day to weeks for results. For current in-office tests, 40% of all yeast infections and 30% of bacterial infections are misdiagnosed and require further visits.  More importantly, vaginitis can lead to a large fraction of spontaneous preterm births - a major cause of neonatal mortality, emotional distress and lifelong disability worldwide. In the US, PTB results in healthcare costs of $26 B/year, motivating a fast and accurate test.  This project will develop an advanced test that uses artificial intelligence (AI) to study samples quickly and accurately in the doctor's office.&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research Phase I project advances a novel test for vaginitis upon clinical presentation.  This project leverages Artificial Intelligence (AI) image analysis with a high-quality fluorescence microscope to rapidly scan specimens in the doctor's office for fast diagnosis. This project will validate preliminary studies suggesting higher image accuracy compared to viewing similar samples under a microscope. Phase 1 of this project will examine prepared samples from diverse patient populations of up to 500 women to optimize analysis and characterization of VHA automated digital pathology system. All samples will be compared to manual assessment currently used clinically. Additionally, user testing in multiple types of clinical research environments, such as medical schools and health networks, will be undertaken to diversify patient sample populations.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/26/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/14/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2026102</AwardID>
+<Investigator>
+<FirstName>Peggy</FirstName>
+<LastName>Robinson</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Peggy S Robinson</PI_FULL_NAME>
+<EmailAddress>peggy.robinson@cazahealth.com</EmailAddress>
+<PI_PHON>9145255928</PI_PHON>
+<NSF_ID>000804452</NSF_ID>
+<StartDate>08/26/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>CAZA HEALTH LLC</Name>
+<CityName>EARLYSVILLE</CityName>
+<ZipCode>229362407</ZipCode>
+<PhoneNumber>5402390668</PhoneNumber>
+<StreetAddress>379 REAS FORD RD STE 1</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VA05</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>117050642</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>CAZA HEALTH LLC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[CAZA HEALTH LLC]]></Name>
+<CityName>Earlysville</CityName>
+<StateCode>VA</StateCode>
+<ZipCode>229362407</ZipCode>
+<StreetAddress><![CDATA[379 Reas Ford Rd Ste 1]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5345</Code>
+<Text>BIOMEDICAL ENGINEERING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8009</Code>
+<Text>Scientifc Software Integration</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8032</Code>
+<Text>Software Services and Applications</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8038</Code>
+<Text>Biotechnology</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<FUND_OBLG>2020~249726</FUND_OBLG>
+</Award>
+</rootTag>
